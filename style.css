@@ -133,7 +133,7 @@ background: linear-gradient(rgb(0, 0, 0,0.5),rgba(0, 0, 0, 0.5)),url(images/test
 /* Features */
 
 #features{
-        background: linear-gradient(rgba(2, 2, 2, 0.6),rgba(125, 132, 136, 0.6)),url(/images/bg.jpg);
+        background: linear-gradient(rgba(2, 2, 2, 0.6),rgba(125, 132, 136, 0.6)),url(images/bg1.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -176,7 +176,7 @@ background: linear-gradient(rgb(0, 0, 0,0.5),rgba(0, 0, 0, 0.5)),url(images/test
 /* Reservation */
 
 #reservation{
-    background: linear-gradient(rgba(2, 2, 2, 0.6),rgba(125, 132, 136, 0.6)),url(/images/reservation-bg.png);
+    background: linear-gradient(rgba(2, 2, 2, 0.6),rgba(125, 132, 136, 0.6)),url(images/bg2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
